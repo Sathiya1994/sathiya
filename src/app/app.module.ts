@@ -12,6 +12,7 @@ import { MessageComponent } from './message/message.component';
     AppComponent,
     RegisterComponent,
     MessageComponent
+    
   ],
   imports: [
     BrowserModule,
